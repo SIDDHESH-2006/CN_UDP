@@ -1,0 +1,4 @@
+BITE305P - Computer Networks Lab
+Assignment: UDP Socket Programming
+Student: Siddhesh Srinivasan
+Status: Transmission Verified via DatagramPacket.
